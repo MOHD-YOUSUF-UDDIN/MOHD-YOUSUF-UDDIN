@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MOHD-YOUSUF-UDDIN
+- 👋 Hi, I’m MOHD YOUSUF UDDIN
 - 👀 I’m interested in Web Developer projects & Android developer projects.
 - 🌱 I’m currently pursuing B.tech 4thyr in Computer Science Engineering.
 - 💞️ I’m looking to collaborate on major projects like website development from scratch,python projects,AI/ML projects
