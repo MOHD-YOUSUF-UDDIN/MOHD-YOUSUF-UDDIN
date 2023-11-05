@@ -1,7 +1,7 @@
-- 👋 Hi, I’m MOHD YOUSUF UDDIN
+- 👋 Hi, I’m MOHD YOUSUF UDDIN aspiring Full Stack Java Developer.
 - 👀 I’m interested in Web Developer projects & Android developer projects.
 - 🌱 B.Tech in Computer Science Engineering.
-- 💞️ I’m looking to collaborate on major projects like website development from scratch,python projects,AI/ML projects
+- 💞️ I’m looking to collaborate on major projects like website development from scratch,Full Stack Java Projects.
 - 📫 Here is my e-mail(yousuf.msoodi@gmail.com) to get connected 
 
 <!---
